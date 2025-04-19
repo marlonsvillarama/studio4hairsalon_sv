@@ -3,7 +3,7 @@
 <footer>
     <div class="wrapper content">
         <div class="footer-logo">
-            <a href="/"><span class="logo">Studio4</span></a><br/>
+            <a href="/"><span class="logo">Studio 4</span></a><br/>
             <span>Where artistry meets <span class="accent">precision</span></span><br/>
             <span>&copy; Copyright 2025</span>
         </div>

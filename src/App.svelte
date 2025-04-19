@@ -6,6 +6,7 @@
   import Hero from "./components/Hero.svelte";
 
   import Hours from "./components/Hours.svelte";
+  import Services from "./components/Services.svelte";
   import Profile from "./components/Profile.svelte";
 
   import Footer from "./components/Footer.svelte";
@@ -14,20 +15,20 @@
 <Header />
 <Hero />
 
+<!-- Services -->
+ <Services />
+
 <!-- Opening Hours -->
 <Hours />
-
-<!-- Services -->
 
 <!-- Profile -->
 <Profile />
 
 <!-- Reviews -->
 <!-- Contact Info -->
-<!-- Map -->
 
 <!-- Footer -->
- <Footer />
+<Footer />
 
 <!-- <div style="height: 400rem;"></div> -->
 <!-- <main>

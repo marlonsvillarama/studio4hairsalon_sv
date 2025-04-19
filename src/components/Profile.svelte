@@ -19,15 +19,16 @@
 
 <style>
     section {
-        margin-top: 3rem;
-        margin-bottom: 3rem;
-        /* border: 0px solid red; */
+        padding-top: 3rem;
+        padding-bottom: 6rem;
+        /* border: 1px solid red; */
         display: flex;
         flex-direction: column;
         /* grid-template-columns: calc(60% - 3rem) 40%; */
         align-items: center;
         justify-content: center;
         gap: 4rem;
+        clear: both;
     }
     @media (min-width: 64rem) {
         section {
@@ -60,7 +61,8 @@
     .profile p {
         line-height: 2rem;
         margin-bottom: 2.5rem;
-        font-weight: 100;
+        font-weight: 200;
+        letter-spacing: 0.5px;
     }
     .cta {
         padding: 0.75rem 2.5rem;

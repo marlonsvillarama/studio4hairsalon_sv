@@ -7,14 +7,14 @@
             <a href="/">Gallery</a>
             <a href="/">Reviews</a>
         </nav>
-        <div class="logo">Studio4</div>
+        <div class="logo">Studio 4</div>
         <div>
             <a href="/" class="contact">Contact Us</a>
             <a href="/" class="cta">Book Now</a>
         </div>
     </div>
     <div class="menu small wrapper">
-        <div class="logo">Studio4</div>
+        <div class="logo">Studio 4</div>
         <nav>
             <a href="/">Services</a>
             <a href="/">Gallery</a>

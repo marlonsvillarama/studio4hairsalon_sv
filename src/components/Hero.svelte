@@ -12,6 +12,7 @@
     .container {
         position: relative;
         color: white;
+        padding-bottom: 3rem;
     }
     .img {
         background-image: url("/static/drive/H-8.jpg");
